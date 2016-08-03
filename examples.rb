@@ -1,1 +1,1 @@
-def 'chocolat'
+puts "whats your name"
